@@ -2,4 +2,4 @@
 *.geojson
 .ipynb_checkpoints/
 *.docx
-~WRL3728.tmp
+*.tmp
