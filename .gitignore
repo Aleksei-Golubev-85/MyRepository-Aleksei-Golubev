@@ -2,3 +2,4 @@
 *.geojson
 .ipynb_checkpoints/
 *.docx
+*.tmp
