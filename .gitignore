@@ -1,3 +1,4 @@
 *.csv
 *.geojson
 .ipynb_checkpoints/
+*.docx
