@@ -6,7 +6,7 @@
 
 - Python и его библиотеки для обработки и анализа данных (pandas, matplotlib, seaborn, scipy, plotly, folium)
 - SQL — для работы с базами данных (PostgreSQL, DBeaver, sqlalchemy).  
-Дополнительно прошел [Курс ДВФУ](https://sql-dvfu.tilda.ws/) и получил [Удостоверение установленного образца федерального университета](MyRepository-Yandex-Practicum/certificate_sql_far_eastern_federal_uversity)
+Дополнительно прошел [Курс ДВФУ](https://sql-dvfu.tilda.ws/) и получил [Удостоверение установленного образца федерального университета](https://github.com/Aleksei-Golubev-85/MyRepository-Yandex-Practicum/tree/main/certificate_sql_far_eastern_federal_uversity)
 - Jupiter Notebook, 
 - Tableau — для построения панели графиков (дашбордов)
 
