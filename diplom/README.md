@@ -5,7 +5,7 @@
 ## Инструменты, изученные на курсе: 
 
 - Python и его библиотеки для обработки и анализа данных (pandas, matplotlib, seaborn, scipy, plotly, folium)
-- SQL — для работы с базами данных (PostgreSQL, DBeaver, sqlalchemy).
+- SQL — для работы с базами данных (PostgreSQL, DBeaver, sqlalchemy).  
 Дополнительно прошел [Курс ДВФУ](https://sql-dvfu.tilda.ws/) и получил [Удостоверение установленного образца федерального университета](certificate_sql_far_eastern_federal_uversity)
 - Jupiter Notebook, 
 - Tableau — для построения панели графиков (дашбордов)
